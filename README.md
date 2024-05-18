@@ -1,2 +1,2 @@
 # websocket_client
-A project at Computer Network subject in HCMUS
+A teamwork project at Computer Network subject in HCMUS
