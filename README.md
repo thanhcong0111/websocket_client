@@ -1,5 +1,5 @@
 # websocket_client
---A teamwork project at Computer Network subject in HCMUS--
+-----A teamwork project at Computer Network subject in HCMUS-----
 
 With 2 major folder:
 
